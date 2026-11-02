@@ -1,6 +1,19 @@
+# hii it's kiwi !! 🌲🗻
+---
+### computing student @ queensU w/ a specialisation in software development
 
+collector of many things: music, posters, smell-goods, languages, etc.
 
-<!---
-kiwifruit23/kiwifruit23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+i love video games ! both making and playing them
+
+---
+
+i mostly work in python and C in app development
+
+(working on assembly)
+
+---
+
+### getting better every day
+
+## 🌺🌺
