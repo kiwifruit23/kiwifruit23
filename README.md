@@ -15,6 +15,6 @@ i mostly work in python and C in app development
 
 ---
 
-### getting better every day
+### improving every day
 
 ## 🌺🌺
