@@ -2,9 +2,10 @@
 ---
 ### computing student @ queensU w/ a specialisation in software development
 
-collector of many things: music, posters, smell-goods, languages, etc.
-
-i love video games ! both making and playing them
+#### side quests:
+ - i collect music, posters, smell-goods, languages, etc.
+ - videogame nerd ! i like making them too
+ - nature freak !! trails, mountains, landspaces; this planet is so cool
 
 ---
 
